@@ -1,0 +1,8 @@
+{
+  "name": "Vision Aviation CRM",
+  "description": "A professional-grade sales and lead management system for Vision Aviation Academy, featuring AI-powered lead scoring, pipeline tracking, and comprehensive sales closing reports.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
